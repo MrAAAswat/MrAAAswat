@@ -4,15 +4,9 @@
 
 - <b>Big Data mining and Machine Learing (python)</b>
   - [Sentiment analysis with BERT-uncased](https://github.com/MrAAAswat/Sentiment-analysis.git)
+  - [AI chatbot with GPT-2](https://github.com/MrAAAswat/EchoBot.git)
 - <b>Full Stack Web App (ASP.NET, Razor pages, NodeJS)</b>
   - [Ecommerce website](https://github.com/fiersungod/databaseProject.git)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
 
 
 
