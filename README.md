@@ -1,4 +1,4 @@
-<h1>Hi, I'm Abdulahad, a <br/><a href="https://github.com/MrAAAswat">programming enthusiast, and I sometimes even write my own code</a></h1>
+<h1>Hi, I'm Abdulahad, a <br/><a href="https://github.com/MrAAAswat">programming enthusiast</a>, and I sometimes even write my own code</h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
