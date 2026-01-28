@@ -7,7 +7,8 @@
   - [AI chatbot with GPT-2](https://github.com/MrAAAswat/EchoBot.git)
 - <b>Full Stack Web App (ASP.NET, Razor pages, NodeJS)</b>
   - [Ecommerce website](https://github.com/fiersungod/databaseProject.git)
-
+- <b>Full Stack Web App (Flask Python, PostgreSQL)</b>
+  - [Ecommerce website](https://github.com/psyPan/e-commerce-platform.git)
 
 
 
