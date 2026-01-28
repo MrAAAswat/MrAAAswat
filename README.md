@@ -9,7 +9,9 @@
   - [Ecommerce website](https://github.com/fiersungod/databaseProject.git)
 - <b>Full Stack Web App (Flask Python, PostgreSQL)</b>
   - [Ecommerce website](https://github.com/psyPan/e-commerce-platform.git)
-
+- <b>Computer Architecture with VHDL</b>
+  - [SimpleCPU](https://github.com/MrAAAswat/SimpleCPU-with-VHDL-.git)
+  
 
 
 <!--
