@@ -217,35 +217,35 @@ to{opacity:1; transform:translateY(0);}
 <div class="tag">Python • NLP</div>
 <h3>Sentiment Analysis with BERT</h3>
 <p>High-accuracy classification using transformer architecture.</p>
-<a href="https://github.com/MrAAAswat/Sentiment-analysis.git">View Project →</a>
+<a href="https://github.com/MrAAAswat/Sentiment-analysis" target="_blank">View Project →</a>
 </div>
 
 <div class="card" data-cat="ai">
 <div class="tag">Python • GPT-2</div>
 <h3>EchoBot AI</h3>
 <p>Conversational chatbot simulating natural dialogue.</p>
-<a href="https://github.com/MrAAAswat/EchoBot.git">View Project →</a>
+<a href="https://github.com/MrAAAswat/EchoBot" target="_blank">View Project →</a>
 </div>
 
 <div class="card" data-cat="web">
 <div class="tag">ASP.NET • Node</div>
 <h3>Enterprise Ecommerce</h3>
 <p>Secure database-driven commerce platform.</p>
-<a href="https://github.com/fiersungod/databaseProject.git">View Project →</a>
+<a href="https://github.com/fiersungod/databaseProject" target="_blank">View Project →</a>
 </div>
 
 <div class="card" data-cat="web">
 <div class="tag">Flask • PostgreSQL</div>
 <h3>Lightweight Platform</h3>
 <p>Backend-focused ecommerce solution.</p>
-<a href="https://github.com/psyPan/e-commerce-platform.git">View Project →</a>
+<a href="https://github.com/psyPan/e-commerce-platform" target="_blank">View Project →</a>
 </div>
 
 <div class="card" data-cat="hardware">
 <div class="tag">VHDL</div>
 <h3>Pipelined CPU</h3>
 <p>Instruction-pipelined processor architecture.</p>
-<a href="https://github.com/MrAAAswat/SimpleCPU-with-VHDL-.git">View Project →</a>
+<a href="https://github.com/MrAAAswat/SimpleCPU-with-VHDL-" target="_blank">View Project →</a>
 </div>
 
 </div>
@@ -258,15 +258,14 @@ Built with caffeine ☕ & curiosity
 
 <script>
 function filter(category){
-document.querySelectorAll(".filter button").forEach(b=>b.classList.remove("active"));
-event.target.classList.add("active");
+const buttons=document.querySelectorAll(".filter button");
+buttons.forEach(b=>b.classList.remove("active"));
+
+event.currentTarget.classList.add("active");
 
 document.querySelectorAll(".card").forEach(card=>{
-if(category==="all"||card.dataset.cat===category){
-card.style.display="block";
-}else{
-card.style.display="none";
-}
+card.style.display=(category==="all"||card.dataset.cat===category)
+?"block":"none";
 });
 }
 </script>
