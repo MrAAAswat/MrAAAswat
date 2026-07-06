@@ -1,7 +1,7 @@
 <h1>Hi, I'm a <a href="https://github.com/MrAAAswat">programming enthusiast</a>, and I sometimes even write my own code</h1>
 
 <h2>Software Development Projects:</h2>
-- <b> <a href =https://mraaaswat.github.io/MrAAAswat/](https://mraaaswat.github.io/My-Introduction/>Extended portfolio</a></b>
+- <b> <a href =https://mraaaswat.github.io/My-Introduction/>Extended portfolio</a></b>
   
 - <b>Big Data mining and Machine Learing (python)</b>
   - [Sentiment analysis with BERT-uncased](https://github.com/MrAAAswat/Sentiment-analysis.git)
